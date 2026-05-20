@@ -1,5 +1,4 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-Name: S.D. Surendar
 
  ## Aim:
  To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
